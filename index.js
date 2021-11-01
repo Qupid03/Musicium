@@ -45,7 +45,7 @@ const client = new Discord.Client({
       status: "online"
     }
 });
-//BOT CODED BY: Tomato#6966
+//BOT CODED BY: Qupid
 //DO NOT SHARE WITHOUT CREDITS!
 //const proxy = 'http://123.123.123.123:8080';
 //const agent = https(proxy);
@@ -116,12 +116,12 @@ client.login(config.token)
 
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by Qupid | 
  * @INFO
- * Work for Milrato Development | https://milrato.eu
- * @INFO
- * Please mention Him / Milrato Development, when using this Code!
- * @INFO
+
+
+
+
  */
 
 
